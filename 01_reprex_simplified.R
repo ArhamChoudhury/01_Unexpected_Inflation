@@ -59,7 +59,7 @@ chart <- df %>%
         plot.title = element_text(hjust = .5))
 chart
 
-# End of Section 1-----
+
 
 
 
